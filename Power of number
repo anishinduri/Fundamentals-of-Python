@@ -1,0 +1,8 @@
+Write a program to read X as the base and N as the power and calculate the result (X^N - X to the power of N)
+
+#code
+
+a=int(input())
+b=int(input())
+power=pow(a,b)
+print(power)
