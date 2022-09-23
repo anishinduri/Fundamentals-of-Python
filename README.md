@@ -1,1 +1,1 @@
-#fundamentals of python
+FUNDAMENTALS OF PYTHON
