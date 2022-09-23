@@ -1,0 +1,9 @@
+split the students in the class into equal sized teams
+For instance, 
+if there are 50 students in the class and if the class has to be divided into 7 equal sized teams, 7 students will be there in each team and 1 student will be left out
+
+#code
+
+a=int(input())
+b=int(input())
+print("The number of students in each team is",a//b,"and left out is",a%b)
