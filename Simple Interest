@@ -1,0 +1,14 @@
+Input format: 
+The first line containing integer value denoting the borrowed amount(principal amount) 
+The second line containing integer value denoting the period in years 
+The third line containing float value denoting the rate of interest 
+
+Output format: 
+Print the simple interest with 2 decimal places.
+
+#code
+
+p=int(input())
+t=int(input())
+r=float(input())
+print((p*t*r)/100)
